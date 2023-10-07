@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   containerBottom: {
     position: "absolute",
     bottom: 0,
-    width: "100%",
+    width: "40%",
     padding: 20,
   },
   buttonStyle: {
